@@ -1,6 +1,6 @@
 node {
  
-    stage('Clone repository') {
+    stage('Clone repository again') {
         /* Let's make sure we have the repository cloned to our workspace */
 
         checkout scm
